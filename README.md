@@ -1,7 +1,3 @@
-Perfect — I’ll rewrite your README with improvements so it looks polished for GitHub **and** recruiter-friendly. Here’s the updated version 👇
-
----
-
 # Developing a Handwritten Digits Classifier with PyTorch
 
 This project demonstrates how to build and train a neural network for handwritten digit recognition using **PyTorch**, achieving **\~97% accuracy** on the **MNIST dataset**.
@@ -114,5 +110,3 @@ python predict.py sample.png
 * A spot for visuals (huge for GitHub readability).
 
 ---
-
-Do you want me to also **draft a LinkedIn post** that matches this README (short, engaging, and recruiter-friendly), so you can announce it when you push to GitHub?
