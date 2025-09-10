@@ -1,8 +1,6 @@
 # Developing-a-Handwritten-Digits-Classifier-with-PyTorch
 A PyTorch project to build and train a handwritten digit classifier on the MNIST dataset, sponsored by AWS.
 
-# Developing a Handwritten Digits Classifier with PyTorch
-
 This project is a proof of concept for **optical character recognition (OCR)**, using the classic **MNIST dataset** of handwritten digits.  
 The goal was to design, train, and evaluate a neural network that can correctly identify digits from 0–9.
 
